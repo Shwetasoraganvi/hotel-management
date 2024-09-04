@@ -1,0 +1,25 @@
+.form{
+    margin: 35px;
+    width: 450px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    width: 200px;
+}
+
+.table{
+    height: 800px;
+    overflow-y: auto;
+    margin-top: 60px;
+}
+
+.customer{
+    display: flex;
+    margin: 35px;
+    
+}

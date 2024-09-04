@@ -1,0 +1,52 @@
+nav{
+    background-color: black;
+    height: 50px;
+}
+ul {
+    display: flex;
+    
+    color: aliceblue;
+    list-style: none;
+    
+
+}
+nav div{
+    margin-left: 37%;
+    padding-left: 0;
+    align-items: center;
+    align-content: center;
+}
+ul li{
+    padding: 1px;
+    font-size: 20px;
+    font-weight: bold;
+    border:white solid 2px;
+    margin-right: 60px;
+    margin-left: 20px;
+    border-radius: 20px;
+    
+}
+
+.container{
+    display:flex;
+    gap: 25px;
+    flex-direction: column;
+    width: 20rem;
+    float: left;
+    align-items: center;
+    height: 38rem;
+
+}
+
+.container .list button{
+    width: 200px;
+    height: 50px;
+    color: burlywood;
+    color: black;
+}
+
+.outer{
+    display: flex;
+    
+}
+
